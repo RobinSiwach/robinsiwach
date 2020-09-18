@@ -1,0 +1,62 @@
+
+first_name : "Robin"
+last_name : "Siwach"
+email : "robin.siwach93@gmail.com"
+address : Faridabad, India
+phone : "+919953305749"
+linkedin : "https://www.linkedin.com/in/robin-siwach-72aa56a3/"
+github : "https://github.com/RobinSiwach"
+objective : >
+    Experienced Python Developer with demonstrated working
+    history in education domain, skilled in application development
+    and exploring AI and Machine learning.
+edu :
+    - Institution : "C.D.A.C Noida"
+      Degree : "Post Graduate Diploma"
+      Subject : "Big Data Analytics"
+      Timeline : "February 2016 - August 2016"
+    - Institution : "B.S.A.I.T.M"
+      Degree : "Bachelors in Technology"
+      Subject : "Computer Science"
+      Timeline : "August 2011 - July 2015"
+Skills :
+    - Python
+    - Golang
+    - Git
+    - SQL
+    - MongoDB
+    - Django
+    - Flask
+    - Redis
+    - Pandas
+    - Data Visualization
+experience :
+    - Company_name : "Gemini Solutions Pvt Ltd"
+      Designation : "Software Engineer"
+      Timeline : "April 2020 - Present"
+      Responsibilites : >
+        Developing and maintaining data pipeline and improved
+        performance by 18% by making the code concurrent.
+        Generated analytical reports using plotly and dash.
+        Converted a legacy web application to flask and used pandas
+        to generate it's analytics dashboard.
+    - Company_name : "Awakinn"
+      Designation : "Software Developer"
+      Timeline : "August 2018 - March 2020"
+      Responsibilites : >
+        Developed APIs for coder arena and dashboard.
+        Developed internal dashboard for analytics and performance
+        tracking.
+        Developed in house Membership system.
+    - Company_name : "FashFa"
+      Designation : "Software Developer"
+      Timeline : "December 2017 - July 2018"
+      Responsibilites : >
+        Developed features for customers CMS and analytics dashboard.
+        Developed Seller dashboard including products upload service.
+achievements :
+    - Qualified for Facebook Hackercup 2019
+    - Qualified for Google Code Jam 2019
+    - Qualified for Google Code Jam 2018
+    - Qualified for CodeChef SnackDown 2017
+    - Qualified for Google Code Jam 2017
